@@ -43,6 +43,14 @@ Spice Simulation:
 ![image](https://github.com/user-attachments/assets/dd7702ff-3a02-46d3-b82e-626211f6a0e3)
 ![image](https://github.com/user-attachments/assets/4091feb3-deaa-4395-8d33-3abe87fd899b)
 
+Updated A, Y, VPWR & VGND definitions and saved the lef of my inverter.
+![image](https://github.com/user-attachments/assets/7d0dfd70-e504-4d29-a840-0d6226b89054)
+
+Opened the lef & checked the PIN definitions.
+![image](https://github.com/user-attachments/assets/2ab2fb12-aec7-4207-9094-ad842aa714fd)
+![image](https://github.com/user-attachments/assets/f34206b3-3a60-4d5b-9282-0392efb2ff96)
+
+
 **DRC correction and rules:**
 
 ![image](https://github.com/user-attachments/assets/90796dcb-ef60-4063-9324-fe50c91d61d3)
@@ -64,3 +72,17 @@ Now, met3.1 ERROR was resolved.
 
 
 **Day 4 - Prelayout design and Clock Tree Synthesis**
+
+Copied all the libs & newly created lef of the inverter cell into src for picorv design directory.
+![image](https://github.com/user-attachments/assets/759b2b7e-417e-4a08-a52f-399632458a10)
+
+![image](https://github.com/user-attachments/assets/627fd1cc-dea6-424c-9c53-f436c00dee45)
+
+Then, updated config.tcl below:
+![image](https://github.com/user-attachments/assets/a9c6bc8f-d20b-458e-bad5-31873981b1ef)
+
+With updated config file (added inverter libs), prep design command was performed again:
+![image](https://github.com/user-attachments/assets/f7e4e41e-f92e-4d86-a68d-a3049cadad77)
+
+Performed synthesis again after adding our inverter cell.
+![image](https://github.com/user-attachments/assets/4a6d7652-0da7-4108-ad6e-88778c985a8f)
