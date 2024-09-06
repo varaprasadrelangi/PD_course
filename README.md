@@ -43,5 +43,18 @@ Spice Simulation:
 
 DRC correction and rules:
 
-![image](https://github.com/user-attachments/assets/b3cda0e7-a2cd-4da8-b25e-529b54da5543)
+![image](https://github.com/user-attachments/assets/90796dcb-ef60-4063-9324-fe50c91d61d3)
+![image](https://github.com/user-attachments/assets/6c05b416-9691-4d86-97e5-ba14a0071026)
+![image](https://github.com/user-attachments/assets/be9f1edc-9736-42e9-ab2b-f567aaf6f35a)
+
+Metal 3 DRC rules in tech file.
+![image](https://github.com/user-attachments/assets/582c0f14-bc06-4e5a-8f3c-989a30ca70dd)
+
+Updating the Metal 3 DRC rules in tech file as below:
+![image](https://github.com/user-attachments/assets/31728b16-0a0e-4d29-833d-17424643c37e)
+
+Reduced the Min width 0.3um to 0.003um
+
+Now, met3.1 ERROR was resolved.
+![image](https://github.com/user-attachments/assets/41f1c8e3-0b39-4517-b4d4-f0c377f5d351)
 
