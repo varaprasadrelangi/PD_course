@@ -1,5 +1,5 @@
-**DAY 1 Introduction to SoC Design Flow and Running Synthesis:
-**
+**DAY 1 Introduction to SoC Design Flow and Synthesis:**
+
 ![image](https://github.com/user-attachments/assets/a47db024-433e-4926-98b6-f743a4dcf45b)
 Opening openlane & design preparation:
 ![image](https://github.com/user-attachments/assets/f8bd1246-daf1-4369-8bbd-3f6fd5d5639d)
@@ -93,7 +93,7 @@ Done till placement again.
 Performed run_cts :
 ![image](https://github.com/user-attachments/assets/165c3856-a2f3-4cb8-aca3-e0a9245b4e54)
 
-**Day 5**
+**Day 5 - PDN & Routing**
 
 **PDN**
 
