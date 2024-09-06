@@ -86,3 +86,20 @@ With updated config file (added inverter libs), prep design command was performe
 
 Performed synthesis again after adding our inverter cell.
 ![image](https://github.com/user-attachments/assets/4a6d7652-0da7-4108-ad6e-88778c985a8f)
+
+Done till placement again.
+![image](https://github.com/user-attachments/assets/1d3faf04-1b36-415f-8761-5968f70db137)
+
+Performed run_cts :
+![image](https://github.com/user-attachments/assets/165c3856-a2f3-4cb8-aca3-e0a9245b4e54)
+
+**Day 5**
+
+**PDN**
+
+Performed gen_pdn:
+![image](https://github.com/user-attachments/assets/11fc5bfa-8300-4ca8-93c3-3d023fb75406)
+![image](https://github.com/user-attachments/assets/c03904a0-88c8-4657-b3b8-2ad1cebc2ff6)
+
+Performed run_routing:
+![image](https://github.com/user-attachments/assets/8a777ca6-872f-4642-ab1c-172e7b955944)
