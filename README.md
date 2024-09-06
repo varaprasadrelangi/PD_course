@@ -25,8 +25,7 @@ Opening placement def on magic:
 ![image](https://github.com/user-attachments/assets/b1700868-9010-470b-ba0b-3058d57c32b5)
 ![image](https://github.com/user-attachments/assets/3f053858-ad96-40f0-a05c-9f8cde75efa5)
 
-**Day3 Design of Inverter using transient of the designed cell using spice
-**
+**Day3 Design of Inverter:**
 
 Cloning the inverter cell from the Github repository:
 ![image](https://github.com/user-attachments/assets/2dea9edc-7bc9-46ca-afbc-2bda66f2838a)
