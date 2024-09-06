@@ -35,10 +35,13 @@ Opening inverter layout:
 
 Extracting the inverter & creating spice file:
 ![image](https://github.com/user-attachments/assets/305866d0-0f8d-426d-a5e8-c3c927d860e1)
-![image](https://github.com/user-attachments/assets/7cde2add-0370-4a62-bf69-824e09c0164a)
-
-
+![image](https://github.com/user-attachments/assets/e2729f8e-f7d1-47bc-ae92-2eeffa68a459)
 
 Spice Simulation:
-![image](https://github.com/user-attachments/assets/6036b24d-d585-4d0e-8a45-ad341728d60a)
+![image](https://github.com/user-attachments/assets/dd7702ff-3a02-46d3-b82e-626211f6a0e3)
+![image](https://github.com/user-attachments/assets/4091feb3-deaa-4395-8d33-3abe87fd899b)
+
+DRC correction and rules:
+
+![image](https://github.com/user-attachments/assets/b3cda0e7-a2cd-4da8-b25e-529b54da5543)
 
