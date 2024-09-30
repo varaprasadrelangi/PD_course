@@ -103,5 +103,7 @@ Performed gen_pdn:
 Performed run_routing:
 ![image](https://github.com/user-attachments/assets/8a777ca6-872f-4642-ab1c-172e7b955944)
 
-Certificate of Completion from VLSI Sytem Design:
+
+**Certificate of Completion from VLSI Sytem Design:**
+
 ![image](https://github.com/user-attachments/assets/ecc9ac64-d2b4-42b2-929a-e2f9b3212af0)
